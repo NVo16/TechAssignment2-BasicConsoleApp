@@ -9,4 +9,3 @@ Console.WriteLine("My name is Ngoc Vo.");
 Console.WriteLine("I know it is not easy to learn programming but I really love it.");
 Console.WriteLine("I do not have much experiences in this field but I look forward to learning more from you.");
 Console.WriteLine("Thank you for reading my message!");
-Console.WriteLine("See you again!!");
